@@ -3,8 +3,8 @@
 function test1(){
     return true;
 }
-
 test1();
+
 echo "2<br>";
 function message2($texto) {
     echo "$texto";
